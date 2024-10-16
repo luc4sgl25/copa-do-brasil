@@ -1,0 +1,34 @@
+body{
+    background: rgb(6,0,99);
+    background: linear-gradient(97deg, rgba(6,0,99,1) 0%, rgba(1,1,244,1) 30%, rgba(65,255,0,1) 100%);
+}
+
+h2{
+    color: white;
+}
+
+table{
+    
+    width: 800px;
+    height: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13pt;
+    text-align: left;
+    font-style: italic;
+   
+    letter-spacing: 2px;
+    
+   
+   
+    border-spacing:25px 3px;
+    border-bottom: 0px;
+    border-top: 0px;
+    border-left: 10px;
+    border-right: 10px;
+}
+TD{
+    border: 1px  rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 1px;
+}
